@@ -1,0 +1,19 @@
+# Creative Tab
+itemGroup.equivalentenergistics=Equivalent Energistics
+
+# Item Names
+item.equivalentenergistics:EMCCrystal.0.name=EMC水晶
+item.equivalentenergistics:EMCCrystal.1.name=浓厚EMC水晶
+item.equivalentenergistics:EMCCrystal.2.name=超级浓厚EMC水晶
+item.equivalentenergistics:EMCBook.name=炼金术水晶
+item.equivalentenergistics:EMCPattern.name=EMC样品
+
+# Block Names
+tile.equivalentenergistics:EMCCondenser.name=EMC电容器
+tile.equivalentenergistics:EMCCrafter.name=EMC汇集器
+
+# Messages
+message.book.clear=所有人清除！
+message.book.wrongowner=你不是这本书的主人。
+message.book.link=书本上线！
+

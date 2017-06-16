@@ -1,0 +1,33 @@
+bbw.key.category=更好的建筑魔杖
+bbw.key.mode=改变模式
+bbw.key.fluidmode=改变流体模式
+
+item.betterbuilderswands:wandBasic.name=石制建筑魔杖
+item.betterbuilderswands:wandAdvanced.name=铁质建筑魔杖
+item.betterbuilderswands:wandUnrestricted.name=钻石质建筑魔杖
+item.betterbuilderswands:wandUnbreakable.name=坚不可摧的建筑魔杖
+
+bbw.hover.mode.northsouth=模式：南北
+bbw.hover.mode.verticalnorthsouth=模式：北南（+垂直）
+bbw.hover.mode.eastwest=模式：东西
+bbw.hover.mode.verticaleastwest=模式：东西（+垂直）
+bbw.hover.mode.horizontal=模式：水平
+bbw.hover.mode.vertical= 模式：垂直
+bbw.hover.mode.nolock=模式：任意
+bbw.hover.maxblocks=最多放置 %d 方块
+bbw.chat.mode.northsouth=模式：北-南-从最初的区块向北延伸。北/南面无建筑物
+bbw.chat.mode.verticalnorthsouth=模式：北-南（+垂直）-向北延伸，南，向上和向下从最初的块。北/南面无建筑物
+bbw.chat.mode.eastwest=模式：东西-从最初的块东向西延伸。东/西面无建筑
+bbw.chat.mode.verticaleastwest=模式：东西（+垂直）-向东，西，向上和向下从原来的块。东/西面无建筑
+bbw.chat.mode.horizontal=模式：横向-扩展左，右从原来的块。顶/底面无建筑物。
+bbw.chat.mode.vertical= 模式：垂直向上和向下延伸从原来的块。顶/底面无建筑物
+bbw.chat.mode.nolock=模式：任意-扩展左，右，上下从原来的块。
+
+bbw.hover.fluidmode.stopat=流体：停止
+bbw.chat.fluidmode.stopat=流体：停止-停止液体。不通过任何类型的流体建立。
+bbw.hover.fluidmode.ignore=流体：忽略
+bbw.chat.fluidmode.ignore=流体：建筑时忽略流体（两个源块和流动块）
+
+bbw.chat.error.noundo=我不记得这根魔杖是什么。
+bbw.chat.error.nowand=你手中需要有一根魔杖才能运行更好的建筑MOD
+bbw.chat.error.bot=检测到没有玩家，请停止你的操作

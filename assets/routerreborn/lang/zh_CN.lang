@@ -1,0 +1,68 @@
+tile.router.name=物品路由器
+tile.routerold.name=物品路由器
+tile.routercable.name=物流线缆
+tile.energyrouter.name=[WIP] 能量路由 (RF) - 发送
+tile.fluidrouterout.name=[WIP] 流体路由 - 发送
+tile.fluidrouterin.name=[WIP] 流体路由 - 提取
+tile.routerbarrelT1.name=存储单元 (Tier 1)
+tile.routerbarrelT2.name=存储单元 (Tier 2)
+tile.routerbarrelT3.name=存储单元 (Tier 3)
+tile.routerchest.name=一个特殊的箱子
+tile.powerConverter.name=RF to EU 转换器 (8196 EU output, 36,000 RF buffer)
+tile.rr_lamp.name=泛光灯
+container.routerchest.name=箱子
+item.speedupgrade.name=物品路由器: 速度升级
+item.machineupgrade.name=物品路由器: 机器过滤升级
+item.bandwidthupgrade.name=物品路由器: 带宽升级
+item.ejectupgrade.name=物品路由器: 弹出升级
+item.itemfilterupgrade.name=物品路由器: 物品过滤升级
+item.thoroughupgrade.name=物品路由器: 填充升级
+item.wrenchtool.name=RR扳手
+item.router.name=物品路由器
+item.pickaxe.name=RR镐子
+item.camouflageupgrade.name=设备伪装器
+item.itemcrafter.name=手持合成桌
+item.hammervain.name=连锁锤
+RouterReborn:item.router.manual.manual.name=路由重生指导手册
+
+item.upgradechesteject.name=基础弹出升级 暂不可用
+item.upgradechestadvancedeject.name=高级弹出升级 暂不可用
+item.upgradechestextract.name=基础提取升级 暂不可用
+item.upgradechestadvancedextract.name=高级提取升级 暂不可用
+item.upgradechestitemfilter.name=基础物品过滤升级 暂不可用
+item.upgradechestitemfilteradvanced.name=高级物品过滤升级 暂不可用
+item.upgradechestpackager.name=基础打包升级 暂不可用
+item.upgradechestpackageradvanced.name=高级打包升级 暂不可用
+
+routerreborn:tab.main.name=输入/输出
+routerreborn:tab.speed.name=速度升级
+routerreborn:tab.machinefilter.name=机器过滤升级
+routerreborn:tab.itemfilter.name=物品过滤升级
+routerreborn:tab.bandwidth.name=带宽升级
+routerreborn:tab.autoeject.name=弹出升级
+routerreborn:tab.thorough.name=填充升级
+routerreborn:tab.redstone.name=红石信号
+
+attribute.name.nightvision=夜视
+
+msg.speed_error.txt=速度升级已安装.
+msg.speed_installed.txt=速度升级载入成功.
+
+msg.machine_error.txt=机器过滤升级已安装.
+msg.machine_installed.txt=机器过滤升级载入成功.
+
+msg.bandwidth_error.txt=带宽升级已安装.
+msg.bandwidth_installed.txt=带宽升级载入成功.
+
+msg.eject_error.txt=弹出升级已安装.
+msg.eject_installed.txt=弹出升级载入成功.
+
+msg.ItemFilter_error.txt=物品过滤升级已安装.
+msg.ItemFilter_installed.txt=物品过滤升级载入成功.
+
+msg.thorough_error.txt=填充升级已安装.
+msg.thorough_installed.txt=填充升级载入成功.
+
+msg.camouflage_error.txt=没标记任何方块
+
+routerreborn:commands.rr.usage=rr <creload|tps>  

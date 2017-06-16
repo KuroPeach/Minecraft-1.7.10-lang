@@ -1,0 +1,23 @@
+itemGroup.chancecubes=Chance Cubes
+
+tile.Chance_Cube.name=机会方块
+item.Chance_Cube.name=机会方块
+tile.Chance_Icosahedron.name=机会二十面体
+item.Chance_Icosahedron.name=机会二十面体
+tile.Giant_Chance_Cube.name=巨型机会方块
+tile.Compact_Giant_Chance_Cube.name=紧凑巨型机会方块
+
+item.chancePendantTier1.name=Tier 1 机会挂坠
+item.chancePendantTier2.name=Tier 2 机会挂坠
+item.chancePendantTier3.name=Tier 3 机会挂坠
+item.chancePendantTier4.name=Tier 4 机会挂坠
+
+item.creativePendant.name=创造机会挂坠
+item.rewardSelectorPendant.name=奖励选择挂坠
+
+item.silkTouchPendant.name=丝滑机会挂坠
+
+item.scanner.name=机会方块扫描仪
+
+death.attack.mathdeath=%1$s's mind exploded from the power of math.
+death.attack.mazedeath=%1$s was forever lost in the Chance Cube maze.
