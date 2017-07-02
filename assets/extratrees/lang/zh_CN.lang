@@ -1,0 +1,471 @@
+﻿##################################################
+## Machines
+
+extratrees.machine.kitchen.bar=板材
+extratrees.machine.kitchen.bottleRack=厨具架
+
+extratrees.machine.machine.brewery=发酵机
+extratrees.machine.machine.brewery.info=发酵机使用酵母,果汁和谷物制作各种葡萄酒和啤酒 
+extratrees.machine.machine.distillery=酿酒机
+extratrees.machine.machine.distillery.info=酿酒机可以单倍,双倍或三倍地提取一定的乙醇来制成白兰地,白酒和其他烈酒 
+extratrees.machine.machine.press=榨果汁机
+extratrees.machine.machine.press.info=榨果汁机能把水果压榨成各种果汁,它可以使用RF运行或通过右键手动压榨 
+extratrees.machine.machine.lumbermill=锯木机
+extratrees.machine.machine.lumbermill.info=锯木机增加由树干锯出的木板的产量,同时产生木屑和树皮之类的副产品 
+extratrees.machine.machine.nursery=苗圃
+extratrees.machine.machine.woodworker=木艺木板机
+extratrees.machine.machine.woodworker.info=木艺木板机用两个不同的木板创造有图案的木板块 
+extratrees.machine.machine.panelworker=木艺面板机
+extratrees.machine.machine.panelworker.info=木艺面板机用两个不同的木板创造有图案的木制面板 
+extratrees.machine.machine.glassworker=玻璃工艺机
+extratrees.machine.machine.glassworker.info=玻璃工艺机用两个不同的染色玻璃创造有图案的玻璃 
+extratrees.machine.machine.tileworker=陶瓷工艺机
+extratrees.machine.machine.tileworker.info=陶瓷工艺机用两个不同的染色陶瓷创造有图案的陶瓷 
+
+        
+        
+extratrees.block.planks.fir=冷杉
+extratrees.block.planks.cedar=雪松
+extratrees.block.planks.hemlock=铁杉
+extratrees.block.planks.cypress=柏树
+extratrees.block.planks.fig=无花果树
+extratrees.block.planks.beech=山毛榉
+extratrees.block.planks.alder=赤杨
+extratrees.block.planks.hazel=榛木
+extratrees.block.planks.hornbeam=鹅耳枥
+extratrees.block.planks.box=黄杨
+extratrees.block.planks.butternut=胡桃
+extratrees.block.planks.hickory=山核桃树
+extratrees.block.planks.whitebeam=白面子树
+extratrees.block.planks.elm=榆树
+extratrees.block.planks.apple=苹果树
+extratrees.block.planks.yew=紫杉
+extratrees.block.planks.pear=梨树
+extratrees.block.planks.hawthorn=山楂树
+extratrees.block.planks.rowan=花楸树
+extratrees.block.planks.elder=老树
+extratrees.block.planks.maclura=桑橙树
+extratrees.block.planks.syzgium=蒲桃树
+extratrees.block.planks.brazilwood=巴西木
+extratrees.block.planks.logwood=洋苏木树
+extratrees.block.planks.iroko=伊罗科木
+extratrees.block.planks.locust=槐树
+extratrees.block.planks.eucalyptus=桉树
+extratrees.block.planks.purpleheart=紫心木
+extratrees.block.planks.ash=白蜡树
+extratrees.block.planks.holly=冬青树
+extratrees.block.planks.olive=橄榄树
+extratrees.block.planks.sweetgum=枫香树
+extratrees.block.planks.rosewood=蔷薇木
+extratrees.block.planks.gingko=银杏树
+extratrees.block.planks.pinkivory=粉红象牙树
+
+extratrees.block.planks.vanilla.oak=橡树
+extratrees.block.planks.vanilla.spruce=云杉树
+extratrees.block.planks.vanilla.birch=白桦树
+extratrees.block.planks.vanilla.jungle=丛林树
+extratrees.block.planks.vanilla.darkoak=深色橡树
+extratrees.block.planks.vanilla.acacia=金合欢树
+
+extratrees.block.planks.forestry.larch=落叶松
+extratrees.block.planks.forestry.teak=柚木
+extratrees.block.planks.forestry.acacia=沙漠金合欢树
+extratrees.block.planks.forestry.lime=青柠树
+extratrees.block.planks.forestry.chestnut=栗子树
+extratrees.block.planks.forestry.wenge=黑铁木
+extratrees.block.planks.forestry.baobab=猴面包树
+extratrees.block.planks.forestry.sequoia=红杉
+extratrees.block.planks.forestry.kapok=木棉树
+extratrees.block.planks.forestry.ebony=黑檀木
+extratrees.block.planks.forestry.mahogany=桃花心木
+extratrees.block.planks.forestry.balsa=轻木
+extratrees.block.planks.forestry.willow=垂柳
+extratrees.block.planks.forestry.walnut=核桃树
+extratrees.block.planks.forestry.greenheart=绿心木
+extratrees.block.planks.forestry.cherry=樱桃树
+extratrees.block.planks.forestry.mahoe=瑞香科灌木树
+extratrees.block.planks.forestry.poplar=杨树
+extratrees.block.planks.forestry.palm=棕榈树
+extratrees.block.planks.forestry.papaya=番木瓜树
+extratrees.block.planks.forestry.pine=松树
+extratrees.block.planks.forestry.plum=梅花树
+extratrees.block.planks.forestry.maple=枫树
+extratrees.block.planks.forestry.citrus=柑橘树
+extratrees.block.planks.forestry.giganteum=巨杉
+extratrees.block.planks.forestry.ipe=重蚁木
+extratrees.block.planks.forestry.padauk=紫檀木
+extratrees.block.planks.forestry.cocobolo=黄檀树
+extratrees.block.planks.forestry.zebrawood=斑木树
+
+extratrees.block.planks.ebxl.redwood=红木
+extratrees.block.planks.ebxl.fir=苏格兰冷杉
+extratrees.block.planks.ebxl.acacia=Excel 金合欢
+
+
+
+extratrees.block.planks.fir.desc=A good sturdy conifer wood.|Lumber Jack
+extratrees.block.planks.cedar.desc=A red tinged softwood.|Lumber Jack
+extratrees.block.planks.hemlock.desc=Hemlock gives a green hued conifer wood.|Lumber Jack
+extratrees.block.planks.cypress.desc=A conifer wood with a sligh yellow colouring.|Lumber Jack
+extratrees.block.planks.fig.desc=Generally not considered a viable construction wood, nonetheless a useful wood.|Lumber Jack
+extratrees.block.planks.beech.desc=A slightly lighter wood, pretty average.|Lumber Jack
+extratrees.block.planks.alder.desc=A darker hardwood, doesn't have many discerning properties.|Lumber Jack
+extratrees.block.planks.hazel.desc=A lovely pale wood, similar in colour to Birch.|Lumber Jack
+extratrees.block.planks.hornbeam.desc=Another average wood, without many interesting properties.|Lumber Jack
+extratrees.block.planks.box.desc=One of the palest woods avaiable, but only found on the short box shrub.|Lumber Jack
+extratrees.block.planks.butternut.desc=A creamy hued wood, though the tree is more known for its nuts.|Lumber Jack
+extratrees.block.planks.hickory.desc=A not particularly remarkable hardwood.|Lumber Jack
+extratrees.block.planks.whitebeam.desc=Despite it's name whitebeam has a rather subdued colour.|Lumber Jack
+extratrees.block.planks.elm.desc=A rather brigh peachy wood.|Lumber Jack
+extratrees.block.planks.apple.desc=A very dark wood, making apple trees a very useful cultivar.|Lumber Jack
+extratrees.block.planks.yew.desc=A rather attractively hued conifer wood.|Lumber Jack
+extratrees.block.planks.pear.desc=Unlike Apple wood, pear wood is not particularly unique.|Lumber Jack
+extratrees.block.planks.hawthorn.desc=An average softwood.|Lumber Jack
+extratrees.block.planks.rowan.desc=A more subdued wood with nice contrast between the planks.|Lumber Jack
+extratrees.block.planks.elder.desc=A average plank without much fanfare.|Lumber Jack
+extratrees.block.planks.maclura.desc=A very rich orange hue makes Maclura wood very desirable.|Lumber Jack
+extratrees.block.planks.syzgium.desc=With a tinge of pink Syzgium is a very unique wood.|Lumber Jack
+extratrees.block.planks.brazilwood.desc=Brazilwood is known for its deep purple shade.|Lumber Jack
+extratrees.block.planks.logwood.desc=Logwood is one of the closest you can get to a red wood.|Lumber Jack
+extratrees.block.planks.iroko.desc=This attractive dark wood would make a lovely lintel.|Lumber Jack
+extratrees.block.planks.locust.desc=Totally unrelated to the devouring insect plague.|Lumber Jack
+extratrees.block.planks.eucalyptus.desc=A pinkish wood, more commonly converted to wood pulp.|Lumber Jack
+extratrees.block.planks.purpleheart.desc=A deep shade of purple makes this tree aptly named.|Lumber Jack
+extratrees.block.planks.ash.desc=Gotta catch 'em all!|Ash Ketchum
+extratrees.block.planks.holly.desc=The whitest wood available, just avoid the pointy leaves to get to it.|Lumber Jack
+extratrees.block.planks.olive.desc=Coloured in the same way as its fruits, an attractive subdued green.|Lumber Jack
+extratrees.block.planks.sweetgum.desc=Yet another average wood, but has a certain character.|Lumber Jack
+extratrees.block.planks.rosewood.desc=Used to make chess pieces, this is another strongly hued wood.|Lumber Jack
+extratrees.block.planks.gingko.desc=Similar to Boxwood, Gingko wood is very pale.|Lumber Jack
+extratrees.block.planks.pinkivory.desc=What can I say. It's very pink.|Lumber Jack
+
+extratrees.block.planks.vanilla.oak.desc=
+extratrees.block.planks.vanilla.spruce.desc=
+extratrees.block.planks.vanilla.birch.desc=
+extratrees.block.planks.vanilla.jungle.desc=
+extratrees.block.planks.vanilla.darkoak.desc=
+extratrees.block.planks.vanilla.acacia.desc=
+
+extratrees.block.planks.forestry.larch.desc=
+extratrees.block.planks.forestry.teak.desc=
+extratrees.block.planks.forestry.acacia.desc=
+extratrees.block.planks.forestry.lime.desc=
+extratrees.block.planks.forestry.chestnut.desc=
+extratrees.block.planks.forestry.wenge.desc=
+extratrees.block.planks.forestry.baobab.desc=
+extratrees.block.planks.forestry.sequoia.desc=
+extratrees.block.planks.forestry.kapok.desc=
+extratrees.block.planks.forestry.ebony.desc=
+extratrees.block.planks.forestry.mahogany.desc=
+extratrees.block.planks.forestry.balsa.desc=
+extratrees.block.planks.forestry.willow.desc=
+extratrees.block.planks.forestry.walnut.desc=
+extratrees.block.planks.forestry.greenheart.desc=
+extratrees.block.planks.forestry.cherry.desc=
+extratrees.block.planks.forestry.mahoe.desc=
+extratrees.block.planks.forestry.poplar.desc=
+extratrees.block.planks.forestry.palm.desc=
+extratrees.block.planks.forestry.papaya.desc=
+extratrees.block.planks.forestry.pine.desc=
+extratrees.block.planks.forestry.plum.desc=
+extratrees.block.planks.forestry.maple.desc=
+extratrees.block.planks.forestry.citrus.desc=
+
+< %1$s is name of wood used for door >
+extratrees.block.door.name=%1$s 木门
+
+< %1$s is name of wood used for door, %2$s is type of door >
+extratrees.block.door.name.adv=%2$s %1$s木门
+extratrees.block.door.type.standard=
+extratrees.block.door.type.solid=Solid
+extratrees.block.door.type.double=Split
+extratrees.block.door.type.full=Full
+
+< %1$s is name of the wood>
+extratrees.block.plank.name=%1$s木板
+extratrees.block.log.name=%1$s原木
+extratrees.block.woodslab.name=%1$s台阶
+extratrees.block.woodstairs.name=%1$s楼梯
+extratrees.block.woodfence.name=%1$s栅栏
+extratrees.block.woodgate.name=%1$s栅栏门
+
+< %1$s is the adjective for the fence type, %2$s is the name of the wood >
+extratrees.block.multifence.name=%2$s %1$s栅栏门
+< %3$s is the name of the second wood >
+extratrees.block.multifence.name2=%2$s %1$s & $2$s栅栏门
+
+< %1$s is name of the design >
+extratrees.block.woodentile.name=%1$s花纹木头
+extratrees.block.woodenpanel.name=%1$s花纹木板
+extratrees.block.stainedglass.name=%1$s花纹玻璃
+
+extratrees.species.orchardapple.name=果园苹果
+extratrees.species.sweetcrabapple.name=甜海棠果
+extratrees.species.floweringcrabapple.name=开花海棠果
+extratrees.species.prairiecrabapple.name=草原海棠果
+extratrees.species.blackthorn.name=黑刺李
+extratrees.species.cherryplum.name=樱桃李子
+extratrees.species.peach.name=桃子
+extratrees.species.nectarine.name=蜜桃
+extratrees.species.apricot.name=杏
+extratrees.species.almond.name=杏仁
+extratrees.species.wildcherry.name=野樱桃
+extratrees.species.sourcherry.name=酸樱桃
+extratrees.species.blackcherry.name=黑樱桃
+extratrees.species.orange.name=橙子
+extratrees.species.manderin.name=柑橘
+extratrees.species.satsuma.name=蜜柑
+extratrees.species.tangerine.name=橘子
+extratrees.species.lime.name=青柠
+extratrees.species.keylime.name=酸青柠
+extratrees.species.fingerlime.name=长青柠
+extratrees.species.pomelo.name=柚子
+extratrees.species.grapefruit.name=葡萄柚
+extratrees.species.kumquat.name=金橘
+extratrees.species.citron.name=香橼
+extratrees.species.buddhahand.name=佛手
+extratrees.species.banana.name=香蕉
+extratrees.species.redbanana.name=红香蕉
+extratrees.species.plantain.name=大蕉
+extratrees.species.butternut.name=胡桃
+extratrees.species.rowan.name=花楸浆果
+extratrees.species.hemlock.name=西部铁杉
+extratrees.species.ash.name=白蜡
+extratrees.species.alder.name=赤杨
+extratrees.species.alder.desc=A common tree in wet places and marshes.|Arborist Manual
+extratrees.species.beech.name=山毛榉
+extratrees.species.beech.desc=An elegant tree with small inedible nuts, used in the manufacture of seed oil.|Arborist Manual
+extratrees.species.copperbeech.name=紫叶欧洲山毛榉
+extratrees.species.copperbeech.desc=Beautiful purple brown leaves make this tree a favourite of gardeners.|Arborist Manual
+extratrees.species.aspen.name=白杨
+extratrees.species.yew.name=红豆杉
+extratrees.species.cypress.name=劳森柏
+extratrees.species.douglasfir.name=花旗松
+extratrees.species.hazel.name=榛木
+extratrees.species.sycamore.name=无花果
+extratrees.species.whitebeam.name=白面子树
+extratrees.species.hawthorn.name=山楂树
+extratrees.species.pecan.name=山核桃
+extratrees.species.elm.name=榆树
+extratrees.species.elder.name=接骨木
+extratrees.species.holly.name=冬青
+extratrees.species.hornbeam.name=鹅耳枥
+extratrees.species.sallow.name=黄华柳
+extratrees.species.acornoak.name=橡子橡树
+extratrees.species.fir.name=银杉
+extratrees.species.cedar.name=雪杉
+extratrees.species.olive.name=橄榄
+extratrees.species.redmaple.name=红枫树
+extratrees.species.balsamfir.name=香脂冷杉
+extratrees.species.loblollypine.name=火炬松
+extratrees.species.sweetgum.name=枫香
+extratrees.species.locust.name=刺槐
+extratrees.species.pear.name=梨树
+extratrees.species.osangeosange.name=Osange-橙子
+extratrees.species.oldfustic.name=黄颜木
+extratrees.species.brazilwood.name=巴西
+extratrees.species.logwood.name=苏木树
+extratrees.species.rosewood.name=玫瑰木
+extratrees.species.purpleheart.name=紫心木
+extratrees.species.iroko.name=伊罗科木
+extratrees.species.gingko.name=银杏
+extratrees.species.brazilnut.name=巴西坚果
+extratrees.species.rosegum.name=玫瑰胶树
+extratrees.species.swampgum.name=沼泽胶树
+extratrees.species.box.name=黄杨
+extratrees.species.clove.name=丁香
+extratrees.species.coffee.name=咖啡
+extratrees.species.monkeypuzzle.name=智利南美衫
+extratrees.species.rainbowgum.name=彩虹胶树
+extratrees.species.pinkivory.name=粉红象牙树
+extratrees.species.blackcurrant.name=黑加仑
+extratrees.species.redcurrant.name=红醋栗
+extratrees.species.blackberry.name=黑莓
+extratrees.species.raspberry.name=覆盆子
+extratrees.species.blueberry.name=蓝莓
+extratrees.species.cranberry.name=蔓越莓
+extratrees.species.juniper.name=刺柏
+extratrees.species.gooseberry.name=醋栗
+extratrees.species.goldenraspberry.name=金覆盆子
+extratrees.species.cinnamon.name=肉桂
+extratrees.species.coconut.name=椰子
+extratrees.species.cashew.name=腰果
+extratrees.species.avacado.name=奶油果
+extratrees.species.nutmeg.name=肉豆蔻
+extratrees.species.allspice.name=多香果
+extratrees.species.chilli.name=尖椒
+extratrees.species.staranise.name=八角茴香
+extratrees.species.mango.name=芒果
+extratrees.species.starfruit.name=杨桃
+extratrees.species.candlenut.name=桐树
+extratrees.species.dwarfhazel.name=矮榛
+
+
+
+extratrees.item.food.apple=苹果
+extratrees.item.food.crabapple=海棠果
+extratrees.item.food.orange=橙子
+extratrees.item.food.kumquat=金橘
+extratrees.item.food.lime=青柠
+extratrees.item.food.wildcherry=野樱桃
+extratrees.item.food.sourcherry=酸樱桃
+extratrees.item.food.blackcherry=黑樱桃
+extratrees.item.food.blackthorn=黑刺李
+extratrees.item.food.cherryplum=樱桃李子
+extratrees.item.food.almond=杏仁
+extratrees.item.food.apricot=杏
+extratrees.item.food.grapefruit=葡萄柚
+extratrees.item.food.peach=Peach
+extratrees.item.food.satsuma=蜜柑
+extratrees.item.food.buddhahand=佛手
+extratrees.item.food.citron=香橼
+extratrees.item.food.fingerlime=长青柠
+extratrees.item.food.keylime=酸青柠
+extratrees.item.food.manderin=柑橘
+extratrees.item.food.nectarine=蜜桃
+extratrees.item.food.pomelo=柚子
+extratrees.item.food.tangerine=橘子
+extratrees.item.food.pear=梨
+extratrees.item.food.sandpear=沙梨
+extratrees.item.food.hazelnut=榛子
+extratrees.item.food.butternut=胡桃
+extratrees.item.food.beechnut=山毛榉坚果
+extratrees.item.food.pecan=山核桃
+extratrees.item.food.banana=香蕉
+extratrees.item.food.redbanana=红香蕉
+extratrees.item.food.plantain=大蕉
+extratrees.item.food.brazilnut=巴西坚果
+extratrees.item.food.fig=无花果
+extratrees.item.food.acorn=橡子
+extratrees.item.food.elderberry=接骨木
+extratrees.item.food.olive=橄榄
+extratrees.item.food.gingkonut=银杏果
+extratrees.item.food.coffee=咖啡
+extratrees.item.food.osangeorange=Osange 橙子
+extratrees.item.food.clove=丁香
+extratrees.item.food.papayimar=Papayimar
+extratrees.item.food.blackcurrant=黑加仑
+extratrees.item.food.redcurrant=红醋栗
+extratrees.item.food.blackberry=黑莓
+extratrees.item.food.raspberry=覆盆子
+extratrees.item.food.blueberry=蓝莓
+extratrees.item.food.cranberry=蔓越莓
+extratrees.item.food.juniper=刺柏
+extratrees.item.food.gooseberry=醋栗
+extratrees.item.food.goldenraspberry=金覆盆子
+extratrees.item.food.coconut=椰子
+extratrees.item.food.cashew=腰果
+extratrees.item.food.avacado=奶油果
+extratrees.item.food.nutmeg=肉豆蔻
+extratrees.item.food.allspice=多香果
+extratrees.item.food.chilli=辣椒
+extratrees.item.food.staranise=八角茴香
+extratrees.item.food.mango=芒果
+extratrees.item.food.starfruit=杨桃
+extratrees.item.food.candlenut=烛坚果
+
+extratrees.item.glassware.beermug=啤酒杯
+extratrees.item.glassware.pint=品脱玻璃杯
+extratrees.item.glassware.snifter=白兰地杯
+extratrees.item.glassware.flute=波尔多酒杯
+extratrees.item.glassware.cocktail=鸡尾酒杯
+extratrees.item.glassware.cordial=小高脚酒杯
+extratrees.item.glassware.collins=柯林杯
+extratrees.item.glassware.highball=高球杯
+extratrees.item.glassware.hurricane=飓风杯
+extratrees.item.glassware.margarita=玛格丽特酒杯
+extratrees.item.glassware.oldfashioned=老式玻璃杯
+extratrees.item.glassware.wine=葡萄酒杯
+extratrees.item.glassware.shot=威士忌小酒杯
+extratrees.item.glassware.sherry=谢里酒酒杯
+extratrees.item.glassware.coupe=浅碟香槟杯
+
+< %1$s is name of fluid >
+extratrees.item.glassware.beermug.usage=一大杯%1$s
+extratrees.item.glassware.pint.usage=一杯%1$s
+extratrees.item.glassware.snifter.usage=一杯%1$s
+extratrees.item.glassware.cocktail.usage=一杯%1$s
+extratrees.item.glassware.cordial.usage=一杯%1$s
+extratrees.item.glassware.collins.usage=一杯%1$s
+extratrees.item.glassware.highball.usage=一杯%1$s
+extratrees.item.glassware.hurricane.usage=一杯%1$s
+extratrees.item.glassware.margarita.usage=一杯%1$s
+extratrees.item.glassware.oldfashioned.usage=一杯%1$s
+extratrees.item.glassware.wine.usage=一杯%1$s
+extratrees.item.glassware.shot.usage=一小杯%1$s
+extratrees.item.glassware.sherry.usage=一杯%1$s
+extratrees.item.glassware.coupe.usage=一杯%1$s
+
+extratrees.fluid.alcohol.apple=苹果酒
+extratrees.fluid.alcohol.apricot=杏酒
+extratrees.fluid.alcohol.banana=香蕉酒
+extratrees.fluid.alcohol.cherry=樱桃酒
+extratrees.fluid.alcohol.elderberry=接骨木酒
+extratrees.fluid.alcohol.peach=桃子苹果酒
+extratrees.fluid.alcohol.pear=梨苹果酒
+extratrees.fluid.alcohol.plum=李子酒
+extratrees.fluid.alcohol.carrot=胡萝卜酒
+extratrees.fluid.alcohol.whitewine=白葡萄酒
+extratrees.fluid.alcohol.redwine=红酒
+extratrees.fluid.alcohol.sparklingwine=起泡酒
+extratrees.fluid.alcohol.agave=龙舌兰酒
+extratrees.fluid.alcohol.potato=格瓦斯
+extratrees.fluid.alcohol.citrus=柑橘酒
+extratrees.fluid.alcohol.cranberry=蔓越莓酒
+extratrees.fluid.alcohol.pineapple=菠萝酒
+extratrees.fluid.alcohol.tomato=西红柿酒
+extratrees.fluid.alcohol.fruit=水果酒
+extratrees.fluid.alcohol.ale=啤酒
+extratrees.fluid.alcohol.lager=贮藏啤酒
+extratrees.fluid.alcohol.wheatbeer=小麦啤酒
+extratrees.fluid.alcohol.ryebeer=黑麦啤酒
+extratrees.fluid.alcohol.cornbeer=玉米啤酒
+extratrees.fluid.alcohol.stout=烈性啤酒
+extratrees.fluid.alcohol.barley=发酵谷物糊
+extratrees.fluid.alcohol.wheat=发酵小麦糊
+extratrees.fluid.alcohol.rye=发酵大麦糊
+extratrees.fluid.alcohol.corn=发酵玉米糊
+
+
+
+extratrees.gui.database.planks.use=可以制作:
+
+extratrees.gui.database.mode.fruit=水果
+extratrees.gui.database.mode.wood=原木
+extratrees.gui.database.mode.planks=木板
+
+extratrees.gui.database.tab.species.overview=概述
+extratrees.gui.database.tab.species.genome=基因组
+extratrees.gui.database.tab.species.classification=分类
+extratrees.gui.database.tab.species.resultant=突变
+extratrees.gui.database.tab.species.further=二次突变
+
+extratrees.gui.database.tab.branches.overview=概述
+extratrees.gui.database.tab.branches.species=物种
+
+extratrees.gui.database.tab.breeder.breeder=饲育
+
+
+extratrees.gui.database.tab.fruit.natural=自然树木
+extratrees.gui.database.tab.fruit.natura.help=能够自然生长这种水果的树木
+extratrees.gui.database.tab.fruit.potential=潜在树木
+extratrees.gui.database.tab.fruit.potential.help=如果有合适的等位基因,可以生长这种水果的树
+extratrees.gui.database.tab.wood.natural=自然树木
+extratrees.gui.database.tab.wood.natural.help=由这种原木构成的树木
+extratrees.gui.database.tab.planks.overview=概述
+extratrees.gui.database.tab.planks.overview.help=描述与用途
+extratrees.gui.database.tab.planks.natural=自然树木
+extratrees.gui.database.tab.planks.natural.help=能制成这种木板的原木所构成的树木
+
+
+extratrees.gui.database.tab.butterfly.species.overview=概述
+extratrees.gui.database.tab.butterfly.species.classification=分类
+extratrees.gui.database.tab.butterfly.species.specimen=标本
+extratrees.gui.database.tab.butterfly.species.resultant=突变
+extratrees.gui.database.tab.butterfly.species.further=二次突变
+extratrees.gui.database.tab.butterfly.branches.overview=概述
+extratrees.gui.database.tab.butterfly.branches.species=物种
+extratrees.gui.database.tab.butterfly.breeder=饲育
+
+extratrees.gui.database.log=原木
+extratrees.gui.database.leaves=树叶

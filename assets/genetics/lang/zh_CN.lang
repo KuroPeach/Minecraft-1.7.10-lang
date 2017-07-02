@@ -1,0 +1,42 @@
+﻿##################################################
+## Machines
+
+genetics.machine.machine.isolator=DNA分离机
+genetics.machine.machine.isolator.info=DNA分离机能从生物体内随机抽出一段等位基因,然后把这段基因复制进一个空白序列中,这个过程需要乙醇和DNA限制性内切酶(Enzyme),未测序的血清可以在DNA分析机内分析,在DNA聚合机内进行强化
+
+genetics.machine.machine.sequencer=DNA测序机
+genetics.machine.machine.sequencer.info=DNA测序机对未测序的血清进行测序并把信息上传到玩家的Gene Database中,这个过程很缓慢,且消耗DNA荧光染色剂(fluorescent dye),之后玩家就可以拿Empty Serum Vial 或 Empty Serum Array 从 Gene Database 中提取基因
+
+genetics.machine.machine.polymeriser=DNA聚合机
+genetics.machine.machine.polymeriser.info=DNA聚合机能在血清中添加Raw DNA和DNA聚合酶(Polymerising Bacteria)来强化基因片段,这个过程可以用金粒加速
+
+genetics.machine.machine.inoculator=DNA注射机
+genetics.machine.machine.inoculator.info=DNA注射机使用血清把基因加进可饲育的生物个体中,这个过程非常缓慢,而且需要一个细菌载体,但一定会成功  
+
+genetics.machine.labMachine.genepool=DNA制造机
+genetics.machine.labMachine.genepool.info=DNA制造机使用DNA限制性内切酶(Enzyme)和乙醇分解生物并转化为Raw DNA,警告:这个过程中所有的遗传信息都会丢失并被破坏!
+
+genetics.machine.labMachine.labMachine=基础实验室方块
+
+genetics.machine.labMachine.analyser=DNA分析机
+genetics.machine.labMachine.analyser.info=DNA分析机能对生物个体或DNA序列分析出它们的性状.这个过程需要DNA Dye,由紫色染料和萤石粉制成
+
+genetics.machine.labMachine.incubator=细菌培养机
+genetics.machine.labMachine.incubator.info=细菌培养机将流体和固体在合适的温度下进行混合以促进细胞的生长(骨粉+糖 → Growth Medium;水+Growth Medium → 液态Growth Medium;液态Growth Medium+小麦 → Bacteria;Bacteria+糖 → Enzyme;Bacteria+骨粉 → Polymerising Bacteria;Bacteria+烈焰粉 → Bacteria Vector;液态Growth Medium+蜜蜂幼体 → 雄蜂)
+
+genetics.machine.labMachine.acclimatiser=环境适应性分析机(作者没做完)
+
+genetics.machine.advMachine.splicer=DNA拼接机
+genetics.machine.advMachine.splicer.info=DNA拼接机能消耗大量的RF把提取出来的基因注入生物个体
+
+
+
+
+genetics.item.sequence=DNA序列
+
+genetics.item.sequence.0=最弱
+genetics.item.sequence.1=更弱
+genetics.item.sequence.2=弱
+genetics.item.sequence.3=平均
+genetics.item.sequence.4=强
+genetics.item.sequence.5=更强
